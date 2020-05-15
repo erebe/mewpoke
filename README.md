@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/criteo/mewpoke.svg?branch=master)](https://travis-ci.org/criteo/mewpoke)
 
+
+Project Archived:  Due to the number ad hoc features needed for our custom requirements at Criteo, it is no longer worth putting the project as open source
+
+
 # MEWPOKE - Hope of a mew probe
 
 <p align="center">
